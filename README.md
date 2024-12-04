@@ -1,4 +1,4 @@
-<p align="center">🌹 Destiny Neko Bot con Node-Js.</p>
+<p align="center">🌹 WhatsApp Bot Node-Js.</p>
 </p>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=𝐁𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐨+𝐚𝐥+𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐨+𝐎𝐟𝐢𝐜𝐢𝐚𝐥+𝐝𝐞;✨𝑫𝒆𝒔𝒕𝒊𝒏𝒚-𝑵𝒆𝒌𝒐-𝐁𝐨𝐭✨;𝐆𝐫𝐚𝐜𝐢𝐚𝐬+𝐩𝐨𝐫+𝐩𝐫𝐞𝐟𝐞𝐫𝐢𝐫𝐧𝐨𝐬;𝐂𝐫𝐞𝐚𝐝𝐨+𝐩𝐨𝐫+𝐈'𝐚𝐦|𝑫𝒆𝒔𝒕𝒊𝒏𝒚;✨+🌹🫦💖!!!)](https://git.io/typing-svg)
@@ -51,14 +51,31 @@ href="https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.a"><img src="htt
 <details>
  <summary><b> 💫 Comandos</b></summary>
 
-descargué el código en zip o pidame al WhatsApp 
+pidame el archivo al WhatsApp 
+https://wa.me/523339992782
 
-Descomprimeloen 
+Descomprimelo en 
 /storage/emulated/0/
+
+entrar al termux y pon lo siguiente 
+
+termux-setup-storage
 
 cd /storage/emulated/0/Emilia-v1.0/
 
+pkg install git
+
+pkg update
+
+pkg upgrade
+
+pkg install ffmpeg
+
+pkg install wget
+
 pkg install nodejs
+
+pkg install npm
 
 npm install
 
